@@ -13,3 +13,8 @@ Contato: 📧📬 dayane.c.almeida@gmail.com
 - ⚡ Fato curioso: Quando terminei o 2º grau, comecei a fazer a faculdade de Ciência da Computação,
 - Mas por motivos pessoais tive que parar, quando voltei a estudar me formei como Bacharel em Direito e
 - agora pretendo mudar de área e me tornar uma programadora 🤩
+
+## 🔍 Como me encontrar 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the
+badge&logo=gmail&logoColor=white)](mailto:dayane.c.almeida@gmail.com)

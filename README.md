@@ -1,7 +1,11 @@
-## 👋 Olá, eu sou a Dayane! - 
-🎓🏛️ Estudante de Desenvolvimento de Sistemas - 
+## 👋 Olá, eu sou a Dayane!
+
+🎓🏛️ Estudante de Desenvolvimento de Sistemas
+
 Focada em Python, HTML e CSS 🌐🖥️
-Preparando-me para o mercado de tecnologia 
+
+🎮🕹️👾 Preparando-me para o mercado de tecnologia 
+
 Contato: 📧📬 dayane.c.almeida@gmail.com 
 
 - 🔭 Atualmente trabalho nos Correios 📦✉️📬🏢🚚

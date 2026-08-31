@@ -15,6 +15,5 @@ Contato: 📧📬 dayane.c.almeida@gmail.com
 - agora pretendo mudar de área e me tornar uma programadora 🤩
 
 ## 🔍 Como me encontrar 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
 badge&logo=gmail&logoColor=white)](mailto:dayane.c.almeida@gmail.com)

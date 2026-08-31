@@ -8,6 +8,8 @@ Focada em Python, HTML e CSS 🌐🖥️
 
 Contato: 📧📬 dayane.c.almeida@gmail.com 
 
+## 🚀🌟 Sobre mim
+
 - 🔭 Atualmente trabalho nos Correios 📦✉️📬🏢🚚
 - 🌱 Estou aprendendo muitas coisas interessantes no curso
 - ⚡ Fato curioso: Quando terminei o 2º grau, comecei a fazer a faculdade de Ciência da Computação,

@@ -41,4 +41,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 
 ---
 
-🌈"Se você quer algo novo, pare de fazer algo velho."✨ – Peter Drucker
+🌈 *"Se você quer algo novo, pare de fazer algo velho."* ✨ – Peter Drucker
